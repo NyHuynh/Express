@@ -92,5 +92,3 @@ async function removeCourse(id){
 }
 
 // removeCourse('5bc3ff7e6171e129d40fd857');
-
-
